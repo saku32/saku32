@@ -15,8 +15,7 @@ I'm Sakshi, a curious mind passionate about design, creativity, and turning idea
 
 ---
 
-📫 **Let’s connect!**  
-[Portfolio](#) • [LinkedIn](#) • [Twitter](#)
+
 
 
 <h2>🚀 Languages and Tools I Use</h2>
