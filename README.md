@@ -1,5 +1,24 @@
-<h1>Hi 👋, I'm Sakshi</h1>
+
+
+### Hi there 👋
+
+I'm Sakshi, a curious mind passionate about design, creativity, and turning ideas into interactive experiences.
+
 <p>MSc IT Student | BSc IT Graduate | Aspiring UI/UX Designer | Passionate About Frontend Technology & User-Centered Design </p> <br>
+
+🌱 **I’m currently learning:** Frontend Development  
+🤝 **I’m looking to collaborate on:** Creative web projects, UI/UX design-driven platforms  
+🙋‍♀️ **I’m looking for help with:** JavaScript best practices and building responsive layouts  
+🔭 **I’m currently working on:** A digital platform to help teens and parents explore career paths  
+💬 **Ask me about:** UI design, digital journeys, or balancing aesthetics with functionality  
+⚡ **Fun fact:** I believe good design speaks louder than words—and sometimes, even louder than code 😉
+
+---
+
+📫 **Let’s connect!**  
+[Portfolio](#) • [LinkedIn](#) • [Twitter](#)
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a> 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
